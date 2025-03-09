@@ -1,0 +1,17 @@
+# Data directory and its contents
+data/
+*.zip
+*.bin
+*.txt
+
+# Python virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
